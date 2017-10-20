@@ -7,4 +7,4 @@ var twitterKeys = {
   access_token_secret: 'eZspcKUNeEK483EDK533zslF8yoqguBVL6f9TZUwUqIF3',
 }
 
-module.exports = twitterKeys;
+module.exports = twitterKeys
