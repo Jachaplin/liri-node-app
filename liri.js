@@ -30,11 +30,11 @@ var fs = require('fs')
 	}
 	// Spotify
 	else if (action === "spotify-this-song") {
-		spotifySong()
+		spotifySong(value)
    }
   // OMD
   else if (action === "movie-this") {
-  	ombd()
+  	ombd(value)
   }
   // random
   else if (action === "do-what-it-says") {
